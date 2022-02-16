@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>ajith-valimai</finalName>
+    <finalName>ajith-kcf</finalName>
   </build>
   <distributionManagement>
     <repository>
